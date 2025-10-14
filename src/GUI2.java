@@ -56,7 +56,7 @@ public class GUI2 extends javax.swing.JFrame {
         }
     }
     private void simpanData() {
-        String direktori = "C:\\Kuliah\\PPBO\\P12\\P12.xls";
+        String direktori = "C:\\Kuliah\\SEM_2\\PPBO\\P12\\P12.xls";
         File inputWorkbook = new File(direktori);
         WritableWorkbook w;
         try {
